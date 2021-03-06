@@ -139,7 +139,7 @@ def data_files(protorole):
     return (
         "%s/train" % base,
         "%s/dev" % base,
-        "%s/min_pair" % base,
+        "%s/test" % base,
         "%s/serialize" % base,
     )
 
