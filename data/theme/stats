@@ -1,0 +1,3 @@
+{'dev': defaultdict(<class 'int'>, {0: 4907, 1: 354}),
+ 'test': defaultdict(<class 'int'>, {0: 5000, 1: 276}),
+ 'train': defaultdict(<class 'int'>, {0: 42386, 1: 2598})}

@@ -1,0 +1,2 @@
+allennlp==2.0.1
+-e git://github.com/decompositional-semantics-initiative/decomp.git@8ca966ca04fba842863f90512237d30451a3d318#egg=decomp

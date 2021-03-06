@@ -1,0 +1,1 @@
+[{"deprel": "nsubj", "arg_head": [0, ["I"]],"label": 1,"pred_head": [1, ["took"]],"tokens": "I took a hike."},{"arg_head": [0, ["I"]],"label": 0,"pred_head": [1, ["took"]],"tokens": "I took courage.", "deprel": "nsubj"}]
