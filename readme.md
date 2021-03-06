@@ -1,4 +1,4 @@
-###EN.601.769 Assignment 1: Semantic Role Labeling
+### EN.601.769 Assignment 1: Semantic Role Labeling
 
 The repo is organized as follows:
 
@@ -26,7 +26,7 @@ python -m srl.model --protorole=agent
 ```
 
 
-####python -m srl.query
+#### python -m srl.query
 ```bash
 usage: query.py [-h] [--split {dev,test,train}] [--limit LIMIT] [--stats] [--pretty] [--raw] [--uds_version {1.0,2.0}]
                 {agent,patient,theme,experiencer,destination}
@@ -48,7 +48,7 @@ optional arguments:
   --uds_version {1.0,2.0}
   ```
 
-####python -m srl.model
+#### python -m srl.model
   ```bash
 usage: model.py [-h] [--protorole {agent,patient,theme,experiencer,destination}]
 
